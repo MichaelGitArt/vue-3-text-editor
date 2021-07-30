@@ -1,5 +1,7 @@
 # text-editor
 
+https://michaelgitart.github.io/vue-3-text-editor/
+
 ## Project setup
 ```
 npm install
